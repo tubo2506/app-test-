@@ -1,0 +1,6 @@
+{
+  "name": "Kem Gen Z",
+  "description": "Hệ thống POS & gọi món tại bàn cho Tiệm Kem Gelato Gen Z tích hợp phân hệ quản lý chuyên sâu: Quản lý kho & Giá vốn COGS, Phân tích tài chính BI & Giờ cao điểm, Sơ đồ 16 bàn & QR Studio, Chốt ca & Nhân sự, CRM khách VIP và Phân quyền mã PIN RBAC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

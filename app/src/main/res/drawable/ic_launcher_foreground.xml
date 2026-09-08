@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Waffle Cone -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M38,62 L70,62 L54,92 Z" />
+    <path
+        android:fillColor="#FB8C00"
+        android:pathData="M43,62 L54,92 L65,62 Z" />
+    <!-- Cone waffle criss-cross lines -->
+    <path
+        android:strokeColor="#FFE0B2"
+        android:strokeWidth="1.2"
+        android:pathData="M44,68 L64,68 M47,75 L61,75 M50,82 L58,82" />
+    <path
+        android:strokeColor="#E65100"
+        android:strokeWidth="0.8"
+        android:pathData="M46,62 L60,82 M62,62 L48,82" />
+
+    <!-- Bottom Ice cream scoop (Mint / Matcha) -->
+    <path
+        android:fillColor="#48CFAD"
+        android:pathData="M33,63 C33,52 40,49 54,49 C68,49 75,52 75,63 C75,66 72,67 69,65 C66,63 63,65 60,65 C57,65 54,63 51,64 C48,65 45,63 42,65 C39,67 33,66 33,63 Z" />
+
+    <!-- Top Ice cream scoop (Strawberry Pink with sparkles) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,49 C36,36 44,32 54,32 C64,32 72,36 72,49 C72,52 69,53 66,51 C63,49 60,51 57,51 C54,51 51,49 48,50 C45,51 42,49 39,51 C36,53 36,52 36,49 Z" />
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M37,48 C37,37 44,33 54,33 C64,33 71,37 71,48 C71,51 68,52 65,50 C62,48 59,50 56,50 C53,50 50,48 47,49 C44,50 41,48 38,50 C37,51 37,50 37,48 Z" />
+
+    <!-- Cherry on top -->
+    <path
+        android:fillColor="#D50000"
+        android:pathData="M54,30m-6,0a6,6 0 1,0 12,0a6,6 0 1,0 -12,0" />
+    <path
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="1.5"
+        android:pathData="M54,24 C57,19 62,20 64,17" />
+
+    <!-- Cute Kawaii Eyes & Blush on Strawberry Scoop -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M48,42m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M60,42m-1.5,0a1.5,1.5 0 1,0 3,0a1.5,1.5 0 1,0 -3,0" />
+    <!-- Happy Smile -->
+    <path
+        android:strokeColor="#212121"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M52,44 C53,46 55,46 56,44" />
+    <!-- Sweet Sprinkles -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M44,36 L47,35 L48,37 L45,38 Z" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M60,35 L63,37 L62,39 L59,37 Z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M52,36 L55,36 L55,38 L52,38 Z" />
+</vector>
